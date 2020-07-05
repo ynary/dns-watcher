@@ -1,0 +1,4 @@
+[
+  {"domain": "google.com", "record":{"A": true, "AAAA": "true", "CNAME": "true", "MX": "true", "NS":  "true", "PTR": "true", "SOA": "true", "SPF": "true","TXT": "true"}},
+  {"domain": "yahoo.com", "record":{"A": true, "AAAA": "true", "CNAME": "true", "MX": "true", "NS":  "true", "PTR": "true", "SOA": "true", "SPF": "true","TXT": "true"}}
+]
